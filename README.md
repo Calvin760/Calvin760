@@ -1,8 +1,11 @@
-- 👋 Hi, My name is Calvin
-- 👀 I’m interested in web applications and mobile applications...
-- 🌱 I’m currently learning Computer science at University Of Cape Town...
-- 💞️ I’m looking to collaborate on building web applications using python, React native and Java...
-- 📫 You can email me here: mhlangac61@gmail.com ...
+👋 Hi, I’m Nhlamolo Mhlanga  
+💻 Software Developer | 🎧 DJ | 🚀 Founder of Proximaworld Entertainment  
+
+👀 I build web and mobile applications using React, React Native, Python (Django), and Java  
+🌱 Currently expanding my skills in full-stack development and scalable systems  
+
+💡 Interested in projects at the intersection of tech, and digital experiences  
+📫 Contact: mhlangac61@gmail.com 
 
 <!---
 Calvin760/Calvin760 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
