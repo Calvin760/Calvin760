@@ -1,5 +1,5 @@
 👋 Hi, I’m Nhlamolo Mhlanga  
-💻 Software Developer | 🎧 DJ | 🚀 Founder of Proximaworld Entertainment  
+💻 Software Developer | 🚀 Founder of Proximaworld Entertainment  
 
 👀 I build web and mobile applications using React, React Native, Python (Django), and Java  
 🌱 Currently expanding my skills in full-stack development and scalable systems  
