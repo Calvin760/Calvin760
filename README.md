@@ -1,11 +1,19 @@
-👋 Hi, I’m Nhlamolo Mhlanga  
-💻 Software Developer | 🚀 Founder of Proximaworld Entertainment  
+Hi, I'm Nhlamolo Mhlanga
 
-👀 I build web and mobile applications using React, React Native, Python (Django), and Java  
-🌱 Currently expanding my skills in full-stack development and scalable systems  
+Full-stack developer focused on React Native and modern web applications.
 
-💡 Interested in projects at the intersection of tech, and digital experiences  
-📫 Contact: mhlangac61@gmail.com
-🌆portfolio: https://nhlamolo-portfolio.vercel.app/
-💢linkedIn: https://www.linkedin.com/in/nhlamolo-calvin-mhlanga-918aa23b5/
+I build mobile and web apps with real-time features, authentication, and cloud backends.
+
+Tech Stack:
+React, React Native, JavaScript, Python, Django, Supabase
+
+Projects:
+GigGuide – Mobile app for booking DJs and events
+[[GitHub Link]](https://github.com/Calvin760/)
+
+Social Media App – Full-stack mobile app with real-time updates
+[[GitHub Link]](https://www.linkedin.com/in/nhlamolo-calvin-mhlanga-918aa23b5/)
+
+Portfolio:
+https://nhlamolo-portfolio.vercel.app
 
