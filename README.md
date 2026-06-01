@@ -92,7 +92,7 @@ ASA AI is an intelligent healthcare automation platform designed to streamline p
 ### Redis Infrastructure
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Calvin760/proximaworld/867156fdf161806abb0704bfe9490270329f46f3/Screenshot%20(116).png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Calvin760/proximaworld/867156fdf161806abb0704bfe9490270329f46f3/Screenshot%20(120).png" width="100%" />
 </p>
 
 Demonstrates Redis-backed caching, queue processing, session management, and background job orchestration.
@@ -112,7 +112,8 @@ Real-time application logs showcasing webhook processing, AI interactions, appoi
 ### API Testing & Validation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Calvin760/proximaworld/867156fdf161806abb0704bfe9490270329f46f3/Screenshot%20(120).png" width="100%" />
+  
+  <img src="https://raw.githubusercontent.com/Calvin760/proximaworld/867156fdf161806abb0704bfe9490270329f46f3/Screenshot%20(116).png" width="100%" />
 </p>
 
 Comprehensive API testing covering authentication, patient management, appointment scheduling, AI interactions, and third-party integrations.
