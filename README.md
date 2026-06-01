@@ -92,7 +92,7 @@ https://github.com/Calvin760/HoodKid-apparel
 
 ### Full-stack social platform with real-time interactions
 
-<img src="https://images.unsplash.com/photo-1611605698335-8b1569810432?q=80&w=1200&auto=format&fit=crop" width="100%" />
+<img src="https://github.com/Calvin760/proximaworld/blob/867156fdf161806abb0704bfe9490270329f46f3/Screenshot%20(120).png?q=80&w=1200&auto=format&fit=crop" width="100%" />
 
 ### Features
 - Live feeds
